@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #252122;
+		background: #000000;
 		background-image: url("images/bg02.png");
 	}
 
@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #5d5d5d;
+		color: #a11717;
 		font-size: 14pt;
 		line-height: 1.75em;
 	}
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #252122;
+		color: #C1C1C1;
 		font-weight: 700;
 	}
 
@@ -1914,7 +1914,7 @@ input, select, textarea {
 				height: 3em;
 				text-align: center;
 				border-radius: 5px;
-				background: #888;
+				background: #888;0000FF
 				-moz-transition: background-color .25s ease-in-out;
 				-webkit-transition: background-color .25s ease-in-out;
 				-ms-transition: background-color .25s ease-in-out;
@@ -2066,7 +2066,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background: #ffffff;
+
 		border-bottom: solid 1px #ccc;
 		padding: 5em 0 4em 0;
 		text-align: center;
@@ -2102,7 +2102,7 @@ input, select, textarea {
 
 				#nav > ul > li > a {
 					border-radius: 5px;
-					color: #5d5d5d;
+					color: #D8D8D8;
 					text-decoration: none;
 					padding: 0.6em 1.2em 0.6em 1.2em;
 					-moz-transition: background-color .25s ease-in-out;
@@ -2117,7 +2117,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #d52349;
+					background: #B50012;
 					color: #fff !important;
 					font-weight: 700;
 				}
@@ -2266,7 +2266,7 @@ input, select, textarea {
 
 	#main {
 		position: relative;
-		background: #f7f7f7 url("images/bg02.png");
+		background: #515151 url("images/bg02.png");
 		padding: 4em 0 4em 0;
 	}
 
@@ -2637,7 +2637,7 @@ input, select, textarea {
 
 				#navPanel .link {
 					display: block;
-					color: #888;
+					color: #808080;
 					text-decoration: none;
 					height: 44px;
 					line-height: 44px;
@@ -2906,3 +2906,15 @@ input, select, textarea {
 			}
 
 	}
+
+	#playerName {
+		    color: red;
+                    font-size: 20px
+		    text-align:center;
+		}
+#mainTitles{
+     font-size: 30px
+     text-align:center;
+     font-weight: bold;
+}
+
